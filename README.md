@@ -3,6 +3,7 @@ Official PyTorch implementation of the paper "EchoGen: Generating Visual Echoes 
 
 ## News
 2026.1.27: Accepted by ICLR 2026!
+
 2025.9.30: Released on the arXiv!
 
 ## TODO
